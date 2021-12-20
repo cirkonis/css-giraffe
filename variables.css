@@ -1,0 +1,10 @@
+:root{
+    --construction-line-color: darkgray;
+    --construction-line-thickness: 4px;
+    --outline-color: black;
+    --outline-thickness: 4.5px;
+    --rounded: 50%;
+    --circle: 100%;
+    --spot: rgba(119, 71, 13, 0.78);
+    --fur: #ffcc00;
+}
